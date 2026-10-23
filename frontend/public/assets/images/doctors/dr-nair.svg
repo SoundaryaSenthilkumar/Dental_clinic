@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400">
+  <defs>
+    <radialGradient id="bg3" cx="50%" cy="40%" r="60%">
+      <stop offset="0%" stop-color="#EAF6FF"/>
+      <stop offset="100%" stop-color="#C8E8FA"/>
+    </radialGradient>
+    <radialGradient id="skin3" cx="50%" cy="40%" r="55%">
+      <stop offset="0%" stop-color="#C68642"/>
+      <stop offset="100%" stop-color="#A0622A"/>
+    </radialGradient>
+    <radialGradient id="hair3" cx="50%" cy="30%" r="60%">
+      <stop offset="0%" stop-color="#1C1008"/>
+      <stop offset="100%" stop-color="#0A0804"/>
+    </radialGradient>
+  </defs>
+
+  <!-- Background -->
+  <circle cx="200" cy="200" r="200" fill="url(#bg3)"/>
+
+  <!-- White coat body -->
+  <rect x="70" y="290" width="260" height="120" rx="20" fill="#FFFFFF"/>
+  <path d="M200 290 L155 340 L140 400 L200 380 L260 400 L245 340 Z" fill="#F0F8FF" stroke="#D0E8F5" stroke-width="1"/>
+  <path d="M200 290 L175 310 L165 340 L200 330 L235 340 L225 310 Z" fill="#E8F4FC"/>
+
+  <!-- Stethoscope -->
+  <path d="M165 310 Q150 340 155 360 Q160 375 175 375 Q190 375 190 360" fill="none" stroke="#1677C8" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="190" cy="360" r="8" fill="#1677C8"/>
+  <circle cx="190" cy="360" r="4" fill="#72C7F0"/>
+
+  <!-- Long hair behind — falls to shoulders -->
+  <path d="M128 175 Q112 230 118 300 Q124 330 140 340 Q128 290 132 240 Q136 200 128 175Z" fill="url(#hair3)"/>
+  <path d="M272 175 Q288 230 282 300 Q276 330 260 340 Q272 290 268 240 Q264 200 272 175Z" fill="url(#hair3)"/>
+
+  <!-- Neck -->
+  <ellipse cx="200" cy="285" rx="27" ry="21" fill="url(#skin3)"/>
+
+  <!-- Head -->
+  <ellipse cx="200" cy="193" rx="71" ry="80" fill="url(#skin3)"/>
+
+  <!-- Hair top — parted in middle -->
+  <ellipse cx="200" cy="146" rx="71" ry="50" fill="url(#hair3)"/>
+  <path d="M129 170 Q135 155 150 148 Q172 140 200 139 Q228 140 250 148 Q265 155 271 170" fill="url(#hair3)"/>
+  <!-- Centre part line -->
+  <line x1="200" y1="139" x2="200" y2="158" stroke="#0A0804" stroke-width="2"/>
+
+  <!-- Ears -->
+  <ellipse cx="129" cy="198" rx="12" ry="16" fill="#A0622A"/>
+  <ellipse cx="271" cy="198" rx="12" ry="16" fill="#A0622A"/>
+  <!-- Small earrings -->
+  <circle cx="129" cy="210" r="4" fill="#1677C8"/>
+  <circle cx="271" cy="210" r="4" fill="#1677C8"/>
+
+  <!-- Eyes — slightly almond shaped -->
+  <path d="M161 192 Q175 184 189 192 Q175 200 161 192Z" fill="#fff"/>
+  <path d="M211 192 Q225 184 239 192 Q225 200 211 192Z" fill="#fff"/>
+  <circle cx="175" cy="193" r="7.5" fill="#1C0A00"/>
+  <circle cx="225" cy="193" r="7.5" fill="#1C0A00"/>
+  <circle cx="177" cy="190" r="2.5" fill="#fff"/>
+  <circle cx="227" cy="190" r="2.5" fill="#fff"/>
+  <!-- Eyeliner hint -->
+  <path d="M161 192 Q175 184 189 192" fill="none" stroke="#1C0A00" stroke-width="1.5"/>
+  <path d="M211 192 Q225 184 239 192" fill="none" stroke="#1C0A00" stroke-width="1.5"/>
+
+  <!-- Eyebrows — arched -->
+  <path d="M161 181 Q175 173 189 178" fill="none" stroke="#1C0A00" stroke-width="3" stroke-linecap="round"/>
+  <path d="M211 178 Q225 173 239 181" fill="none" stroke="#1C0A00" stroke-width="3" stroke-linecap="round"/>
+
+  <!-- Nose -->
+  <path d="M196 204 Q192 218 196 226 Q200 230 204 226 Q208 218 204 204" fill="none" stroke="#8A5020" stroke-width="2" stroke-linecap="round"/>
+
+  <!-- Smile — warm -->
+  <path d="M184 244 Q200 257 216 244" fill="none" stroke="#8A5020" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M186 245 Q200 253 214 245" fill="#C07040" opacity="0.35"/>
+
+  <!-- Cheek blush -->
+  <ellipse cx="158" cy="225" rx="15" ry="9" fill="#D4806A" opacity="0.25"/>
+  <ellipse cx="242" cy="225" rx="15" ry="9" fill="#D4806A" opacity="0.25"/>
+
+  <!-- Bindi -->
+  <circle cx="200" cy="172" r="4" fill="#C8102E"/>
+
+  <!-- Name badge -->
+  <rect x="162" y="340" width="76" height="28" rx="6" fill="#1677C8"/>
+  <text x="200" y="358" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#fff">Dr. Nair</text>
+</svg>

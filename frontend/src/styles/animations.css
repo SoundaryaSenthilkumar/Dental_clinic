@@ -1,0 +1,171 @@
+/* ==========================================================================
+   Text split animations — Kings Dental Academy style
+   Characters/words fly up from below, eyebrow slides from left,
+   paragraphs wipe in with clip-path. All driven by GSAP + ScrollTrigger.
+   ========================================================================== */
+
+/* ── Split text: each word/char is a span that GSAP animates ── */
+.split-text {
+  overflow: visible;
+  display: block;
+}
+.split-unit {
+  display: inline-block;
+  overflow: hidden;
+  vertical-align: bottom;
+  /* GSAP sets opacity/y directly — no CSS transition needed */
+}
+
+/* ── Eyebrow with animated left-border line ── */
+.eyebrow-wrap {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 14px;
+  overflow: hidden;
+}
+.eyebrow-line {
+  display: block;
+  width: 32px;
+  height: 3px;
+  border-radius: 2px;
+  background: var(--blue);
+  transform-origin: left center;
+  flex-shrink: 0;
+}
+.eyebrow-wrap .eyebrow {
+  margin: 0;
+}
+
+/* ── Line reveal: clip-path wipe (GSAP animates clipPath) ── */
+.line-reveal {
+  will-change: opacity, transform, clip-path;
+}
+
+/* ── Scroll reveal fallback (IntersectionObserver, used by Reveal.jsx) ── */
+.reveal {
+  opacity: 0;
+  will-change: opacity, transform;
+  transition:
+    opacity 0.75s cubic-bezier(0.22, 1, 0.36, 1),
+    transform 0.75s cubic-bezier(0.22, 1, 0.36, 1);
+}
+.reveal--fade-up    { transform: translateY(36px); }
+.reveal--fade-down  { transform: translateY(-28px); }
+.reveal--fade-left  { transform: translateX(40px); }
+.reveal--fade-right { transform: translateX(-40px); }
+.reveal--scale-in   { transform: translateY(20px) scale(0.96); }
+.reveal--fade-in    { transform: none; }
+.reveal.is-visible  { opacity: 1; transform: none; }
+
+/* ==========================================================================
+   Keyframe animations (page-load elements — hero, modals, lightbox)
+   ========================================================================== */
+@keyframes fadeUp {
+  from { opacity: 0; transform: translateY(16px); }
+  to   { opacity: 1; transform: none; }
+}
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to   { opacity: 1; }
+}
+@keyframes scaleIn {
+  from { opacity: 0; transform: translateY(18px) scale(0.97); }
+  to   { opacity: 1; transform: none; }
+}
+@keyframes heroWordIn {
+  from { opacity: 0; transform: translateY(100%); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+@keyframes chipPop {
+  from { opacity: 0; transform: translateY(12px) scale(0.92); }
+  to   { opacity: 1; transform: none; }
+}
+@keyframes ctaSlide {
+  from { opacity: 0; transform: translateY(20px); }
+  to   { opacity: 1; transform: none; }
+}
+
+/* ==========================================================================
+   Hero content — plays once on page load
+   ========================================================================== */
+.hero-chip  { animation: chipPop   0.7s cubic-bezier(0.22, 1, 0.36, 1) 0.3s  both; }
+.hero-title { animation: heroWordIn 0.9s cubic-bezier(0.22, 1, 0.36, 1) 0.45s both; }
+.hero-lead  { animation: ctaSlide  0.85s cubic-bezier(0.22, 1, 0.36, 1) 0.6s  both; }
+.hero-ctas  { animation: ctaSlide  0.8s  cubic-bezier(0.22, 1, 0.36, 1) 0.75s both; }
+
+/* ==========================================================================
+   UI component animations
+   ========================================================================== */
+.lightbox        { animation: fadeIn  0.25s ease both; }
+.lightbox-img    { animation: scaleIn 0.38s cubic-bezier(0.22, 1, 0.36, 1) both; }
+.modal-backdrop  { animation: fadeIn  0.25s ease both; }
+.modal           { animation: scaleIn 0.34s cubic-bezier(0.22, 1, 0.36, 1) both; }
+
+/* Mobile nav link stagger */
+.nav-panel.is-open .nav-link { animation: fadeUp 0.32s ease both; }
+.nav-panel.is-open .nav-link:nth-child(1) { animation-delay: 0.00s; }
+.nav-panel.is-open .nav-link:nth-child(2) { animation-delay: 0.04s; }
+.nav-panel.is-open .nav-link:nth-child(3) { animation-delay: 0.08s; }
+.nav-panel.is-open .nav-link:nth-child(4) { animation-delay: 0.12s; }
+.nav-panel.is-open .nav-link:nth-child(5) { animation-delay: 0.16s; }
+.nav-panel.is-open .nav-link:nth-child(6) { animation-delay: 0.20s; }
+
+/* ==========================================================================
+   Hover micro-interactions
+   ========================================================================== */
+.treatment-card {
+  transition: transform 0.35s cubic-bezier(0.22, 1, 0.36, 1),
+              box-shadow 0.35s ease, border-color 0.35s ease;
+}
+.treatment-card:hover { transform: translateY(-7px) scale(1.015); }
+
+.reason-card {
+  transition: transform 0.35s cubic-bezier(0.22, 1, 0.36, 1), box-shadow 0.35s ease;
+}
+.reason-card:hover { transform: translateY(-5px); box-shadow: var(--shadow-lift); }
+
+.doctor-card {
+  transition: transform 0.35s cubic-bezier(0.22, 1, 0.36, 1), box-shadow 0.35s ease;
+}
+.doctor-card:hover { transform: translateY(-6px) scale(1.01); }
+
+/* Feature item hover */
+.feature-item {
+  transition: transform 0.3s ease;
+  border-radius: 12px;
+  padding: 8px;
+  margin: -8px;
+}
+.feature-item:hover { transform: translateX(6px); }
+
+/* ==========================================================================
+   Reduced motion — disable everything
+   ========================================================================== */
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+  .reveal,
+  .reveal--fade-up,
+  .reveal--fade-down,
+  .reveal--fade-left,
+  .reveal--fade-right,
+  .reveal--scale-in,
+  .reveal--fade-in    { opacity: 1; transform: none; }
+  .split-unit         { opacity: 1 !important; transform: none !important; }
+  .line-reveal        { opacity: 1 !important; transform: none !important; clip-path: none !important; }
+  .eyebrow-line       { transform: scaleX(1) !important; }
+  .frame-canvas-full  { display: none; }
+  .hero--static       { height: auto; }
+  .treatment-card:hover,
+  .reason-card:hover,
+  .doctor-card:hover,
+  .feature-item:hover,
+  .btn:hover          { transform: none; }
+  .gallery-item:hover img { transform: none; }
+}

@@ -1,0 +1,28 @@
+{
+  "name": "dental-clinic-backend",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Express + MySQL API for dental clinic appointment booking and admin management",
+  "type": "module",
+  "main": "src/server.js",
+  "scripts": {
+    "dev": "node --watch src/server.js",
+    "start": "node src/server.js",
+    "test": "node --test tests/validators.test.js",
+    "create-admin": "node scripts/createAdmin.js"
+  },
+  "engines": {
+    "node": ">=18.18.0"
+  },
+  "dependencies": {
+    "bcryptjs": "2.4.3",
+    "cors": "2.8.5",
+    "dotenv": "16.4.5",
+    "express": "4.21.2",
+    "express-rate-limit": "7.4.1",
+    "helmet": "7.1.0",
+    "jsonwebtoken": "9.0.2",
+    "mysql2": "3.11.3",
+    "nodemailer": "6.9.16"
+  }
+}

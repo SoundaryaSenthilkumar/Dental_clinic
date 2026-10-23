@@ -1,0 +1,1268 @@
+{
+  "description": "Web frame N is the N-th original frame, in numerical order. Desktop: 1920x1080, mobile: 1280x720.",
+  "count": 218,
+  "width": 1920,
+  "height": 1080,
+  "frames": [
+    {
+      "index": 0,
+      "file": "frame_001.jpg",
+      "source": "ezgif-frame-001_4k.jpg"
+    },
+    {
+      "index": 1,
+      "file": "frame_002.jpg",
+      "source": "ezgif-frame-002_4k.jpg"
+    },
+    {
+      "index": 2,
+      "file": "frame_003.jpg",
+      "source": "ezgif-frame-003_4k.jpg"
+    },
+    {
+      "index": 3,
+      "file": "frame_004.jpg",
+      "source": "ezgif-frame-004_4k.jpg"
+    },
+    {
+      "index": 4,
+      "file": "frame_005.jpg",
+      "source": "ezgif-frame-005_4k.jpg"
+    },
+    {
+      "index": 5,
+      "file": "frame_006.jpg",
+      "source": "ezgif-frame-006_4k.jpg"
+    },
+    {
+      "index": 6,
+      "file": "frame_007.jpg",
+      "source": "ezgif-frame-007_4k.jpg"
+    },
+    {
+      "index": 7,
+      "file": "frame_008.jpg",
+      "source": "ezgif-frame-008_4k.jpg"
+    },
+    {
+      "index": 8,
+      "file": "frame_009.jpg",
+      "source": "ezgif-frame-009_4k.jpg"
+    },
+    {
+      "index": 9,
+      "file": "frame_010.jpg",
+      "source": "ezgif-frame-010_4k.jpg"
+    },
+    {
+      "index": 10,
+      "file": "frame_011.jpg",
+      "source": "ezgif-frame-011_4k.jpg"
+    },
+    {
+      "index": 11,
+      "file": "frame_012.jpg",
+      "source": "ezgif-frame-012_4k.jpg"
+    },
+    {
+      "index": 12,
+      "file": "frame_013.jpg",
+      "source": "ezgif-frame-013_4k.jpg"
+    },
+    {
+      "index": 13,
+      "file": "frame_014.jpg",
+      "source": "ezgif-frame-014_4k.jpg"
+    },
+    {
+      "index": 14,
+      "file": "frame_015.jpg",
+      "source": "ezgif-frame-015_4k.jpg"
+    },
+    {
+      "index": 15,
+      "file": "frame_016.jpg",
+      "source": "ezgif-frame-016_4k.jpg"
+    },
+    {
+      "index": 16,
+      "file": "frame_017.jpg",
+      "source": "ezgif-frame-017_4k.jpg"
+    },
+    {
+      "index": 17,
+      "file": "frame_018.jpg",
+      "source": "ezgif-frame-018_4k.jpg"
+    },
+    {
+      "index": 18,
+      "file": "frame_019.jpg",
+      "source": "ezgif-frame-019_4k.jpg"
+    },
+    {
+      "index": 19,
+      "file": "frame_020.jpg",
+      "source": "ezgif-frame-020_4k.jpg"
+    },
+    {
+      "index": 20,
+      "file": "frame_021.jpg",
+      "source": "ezgif-frame-021_4k.jpg"
+    },
+    {
+      "index": 21,
+      "file": "frame_022.jpg",
+      "source": "ezgif-frame-022_4k.jpg"
+    },
+    {
+      "index": 22,
+      "file": "frame_023.jpg",
+      "source": "ezgif-frame-023_4k.jpg"
+    },
+    {
+      "index": 23,
+      "file": "frame_024.jpg",
+      "source": "ezgif-frame-024_4k.jpg"
+    },
+    {
+      "index": 24,
+      "file": "frame_025.jpg",
+      "source": "ezgif-frame-025_4k.jpg"
+    },
+    {
+      "index": 25,
+      "file": "frame_026.jpg",
+      "source": "ezgif-frame-026_4k.jpg"
+    },
+    {
+      "index": 26,
+      "file": "frame_027.jpg",
+      "source": "ezgif-frame-027_4k.jpg"
+    },
+    {
+      "index": 27,
+      "file": "frame_028.jpg",
+      "source": "ezgif-frame-028_4k.jpg"
+    },
+    {
+      "index": 28,
+      "file": "frame_029.jpg",
+      "source": "ezgif-frame-029_4k.jpg"
+    },
+    {
+      "index": 29,
+      "file": "frame_030.jpg",
+      "source": "ezgif-frame-030_4k.jpg"
+    },
+    {
+      "index": 30,
+      "file": "frame_031.jpg",
+      "source": "ezgif-frame-031_4k.jpg"
+    },
+    {
+      "index": 31,
+      "file": "frame_032.jpg",
+      "source": "ezgif-frame-032_4k.jpg"
+    },
+    {
+      "index": 32,
+      "file": "frame_033.jpg",
+      "source": "ezgif-frame-033_4k.jpg"
+    },
+    {
+      "index": 33,
+      "file": "frame_034.jpg",
+      "source": "ezgif-frame-034_4k.jpg"
+    },
+    {
+      "index": 34,
+      "file": "frame_035.jpg",
+      "source": "ezgif-frame-035_4k.jpg"
+    },
+    {
+      "index": 35,
+      "file": "frame_036.jpg",
+      "source": "ezgif-frame-036_4k.jpg"
+    },
+    {
+      "index": 36,
+      "file": "frame_037.jpg",
+      "source": "ezgif-frame-037_4k.jpg"
+    },
+    {
+      "index": 37,
+      "file": "frame_038.jpg",
+      "source": "ezgif-frame-038_4k.jpg"
+    },
+    {
+      "index": 38,
+      "file": "frame_039.jpg",
+      "source": "ezgif-frame-039_4k.jpg"
+    },
+    {
+      "index": 39,
+      "file": "frame_040.jpg",
+      "source": "ezgif-frame-040_4k.jpg"
+    },
+    {
+      "index": 40,
+      "file": "frame_041.jpg",
+      "source": "ezgif-frame-041_4k.jpg"
+    },
+    {
+      "index": 41,
+      "file": "frame_042.jpg",
+      "source": "ezgif-frame-042_4k.jpg"
+    },
+    {
+      "index": 42,
+      "file": "frame_043.jpg",
+      "source": "ezgif-frame-043_4k.jpg"
+    },
+    {
+      "index": 43,
+      "file": "frame_044.jpg",
+      "source": "ezgif-frame-044_4k.jpg"
+    },
+    {
+      "index": 44,
+      "file": "frame_045.jpg",
+      "source": "ezgif-frame-045_4k.jpg"
+    },
+    {
+      "index": 45,
+      "file": "frame_046.jpg",
+      "source": "ezgif-frame-046_4k.jpg"
+    },
+    {
+      "index": 46,
+      "file": "frame_047.jpg",
+      "source": "ezgif-frame-047_4k.jpg"
+    },
+    {
+      "index": 47,
+      "file": "frame_048.jpg",
+      "source": "ezgif-frame-048_4k.jpg"
+    },
+    {
+      "index": 48,
+      "file": "frame_049.jpg",
+      "source": "ezgif-frame-049_4k.jpg"
+    },
+    {
+      "index": 49,
+      "file": "frame_050.jpg",
+      "source": "ezgif-frame-050_4k.jpg"
+    },
+    {
+      "index": 50,
+      "file": "frame_051.jpg",
+      "source": "ezgif-frame-051_4k.jpg"
+    },
+    {
+      "index": 51,
+      "file": "frame_052.jpg",
+      "source": "ezgif-frame-052_4k.jpg"
+    },
+    {
+      "index": 52,
+      "file": "frame_053.jpg",
+      "source": "ezgif-frame-053_4k.jpg"
+    },
+    {
+      "index": 53,
+      "file": "frame_054.jpg",
+      "source": "ezgif-frame-054_4k.jpg"
+    },
+    {
+      "index": 54,
+      "file": "frame_055.jpg",
+      "source": "ezgif-frame-055_4k.jpg"
+    },
+    {
+      "index": 55,
+      "file": "frame_056.jpg",
+      "source": "ezgif-frame-056_4k.jpg"
+    },
+    {
+      "index": 56,
+      "file": "frame_057.jpg",
+      "source": "ezgif-frame-057_4k.jpg"
+    },
+    {
+      "index": 57,
+      "file": "frame_058.jpg",
+      "source": "ezgif-frame-058_4k.jpg"
+    },
+    {
+      "index": 58,
+      "file": "frame_059.jpg",
+      "source": "ezgif-frame-059_4k.jpg"
+    },
+    {
+      "index": 59,
+      "file": "frame_060.jpg",
+      "source": "ezgif-frame-060_4k.jpg"
+    },
+    {
+      "index": 60,
+      "file": "frame_061.jpg",
+      "source": "ezgif-frame-061_4k.jpg"
+    },
+    {
+      "index": 61,
+      "file": "frame_062.jpg",
+      "source": "ezgif-frame-062_4k.jpg"
+    },
+    {
+      "index": 62,
+      "file": "frame_063.jpg",
+      "source": "ezgif-frame-063_4k.jpg"
+    },
+    {
+      "index": 63,
+      "file": "frame_064.jpg",
+      "source": "ezgif-frame-064_4k.jpg"
+    },
+    {
+      "index": 64,
+      "file": "frame_065.jpg",
+      "source": "ezgif-frame-065_4k.jpg"
+    },
+    {
+      "index": 65,
+      "file": "frame_066.jpg",
+      "source": "ezgif-frame-066_4k.jpg"
+    },
+    {
+      "index": 66,
+      "file": "frame_067.jpg",
+      "source": "ezgif-frame-067_4k.jpg"
+    },
+    {
+      "index": 67,
+      "file": "frame_068.jpg",
+      "source": "ezgif-frame-068_4k.jpg"
+    },
+    {
+      "index": 68,
+      "file": "frame_069.jpg",
+      "source": "ezgif-frame-069_4k.jpg"
+    },
+    {
+      "index": 69,
+      "file": "frame_070.jpg",
+      "source": "ezgif-frame-070_4k.jpg"
+    },
+    {
+      "index": 70,
+      "file": "frame_071.jpg",
+      "source": "ezgif-frame-071_4k.jpg"
+    },
+    {
+      "index": 71,
+      "file": "frame_072.jpg",
+      "source": "ezgif-frame-072_4k.jpg"
+    },
+    {
+      "index": 72,
+      "file": "frame_073.jpg",
+      "source": "ezgif-frame-073_4k.jpg"
+    },
+    {
+      "index": 73,
+      "file": "frame_074.jpg",
+      "source": "ezgif-frame-074_4k.jpg"
+    },
+    {
+      "index": 74,
+      "file": "frame_075.jpg",
+      "source": "ezgif-frame-075_4k.jpg"
+    },
+    {
+      "index": 75,
+      "file": "frame_076.jpg",
+      "source": "ezgif-frame-076_4k.jpg"
+    },
+    {
+      "index": 76,
+      "file": "frame_077.jpg",
+      "source": "ezgif-frame-077_4k.jpg"
+    },
+    {
+      "index": 77,
+      "file": "frame_078.jpg",
+      "source": "ezgif-frame-078_4k.jpg"
+    },
+    {
+      "index": 78,
+      "file": "frame_079.jpg",
+      "source": "ezgif-frame-079_4k.jpg"
+    },
+    {
+      "index": 79,
+      "file": "frame_080.jpg",
+      "source": "ezgif-frame-080_4k.jpg"
+    },
+    {
+      "index": 80,
+      "file": "frame_081.jpg",
+      "source": "ezgif-frame-081_4k.jpg"
+    },
+    {
+      "index": 81,
+      "file": "frame_082.jpg",
+      "source": "ezgif-frame-082_4k.jpg"
+    },
+    {
+      "index": 82,
+      "file": "frame_083.jpg",
+      "source": "ezgif-frame-083_4k.jpg"
+    },
+    {
+      "index": 83,
+      "file": "frame_084.jpg",
+      "source": "ezgif-frame-084_4k.jpg"
+    },
+    {
+      "index": 84,
+      "file": "frame_085.jpg",
+      "source": "ezgif-frame-085_4k.jpg"
+    },
+    {
+      "index": 85,
+      "file": "frame_086.jpg",
+      "source": "ezgif-frame-086_4k.jpg"
+    },
+    {
+      "index": 86,
+      "file": "frame_087.jpg",
+      "source": "ezgif-frame-087_4k.jpg"
+    },
+    {
+      "index": 87,
+      "file": "frame_088.jpg",
+      "source": "ezgif-frame-088_4k.jpg"
+    },
+    {
+      "index": 88,
+      "file": "frame_089.jpg",
+      "source": "ezgif-frame-089_4k.jpg"
+    },
+    {
+      "index": 89,
+      "file": "frame_090.jpg",
+      "source": "ezgif-frame-090_4k.jpg"
+    },
+    {
+      "index": 90,
+      "file": "frame_091.jpg",
+      "source": "ezgif-frame-091_4k.jpg"
+    },
+    {
+      "index": 91,
+      "file": "frame_092.jpg",
+      "source": "ezgif-frame-092_4k.jpg"
+    },
+    {
+      "index": 92,
+      "file": "frame_093.jpg",
+      "source": "ezgif-frame-093_4k.jpg"
+    },
+    {
+      "index": 93,
+      "file": "frame_094.jpg",
+      "source": "ezgif-frame-094_4k.jpg"
+    },
+    {
+      "index": 94,
+      "file": "frame_095.jpg",
+      "source": "ezgif-frame-095_4k.jpg"
+    },
+    {
+      "index": 95,
+      "file": "frame_096.jpg",
+      "source": "ezgif-frame-096_4k.jpg"
+    },
+    {
+      "index": 96,
+      "file": "frame_097.jpg",
+      "source": "ezgif-frame-097_4k.jpg"
+    },
+    {
+      "index": 97,
+      "file": "frame_098.jpg",
+      "source": "ezgif-frame-098_4k.jpg"
+    },
+    {
+      "index": 98,
+      "file": "frame_099.jpg",
+      "source": "ezgif-frame-099_4k.jpg"
+    },
+    {
+      "index": 99,
+      "file": "frame_100.jpg",
+      "source": "ezgif-frame-100_4k.jpg"
+    },
+    {
+      "index": 100,
+      "file": "frame_101.jpg",
+      "source": "ezgif-frame-101_4k.jpg"
+    },
+    {
+      "index": 101,
+      "file": "frame_102.jpg",
+      "source": "ezgif-frame-102_4k.jpg"
+    },
+    {
+      "index": 102,
+      "file": "frame_103.jpg",
+      "source": "ezgif-frame-103_4k.jpg"
+    },
+    {
+      "index": 103,
+      "file": "frame_104.jpg",
+      "source": "ezgif-frame-104_4k.jpg"
+    },
+    {
+      "index": 104,
+      "file": "frame_105.jpg",
+      "source": "ezgif-frame-105_4k.jpg"
+    },
+    {
+      "index": 105,
+      "file": "frame_106.jpg",
+      "source": "ezgif-frame-106_4k.jpg"
+    },
+    {
+      "index": 106,
+      "file": "frame_107.jpg",
+      "source": "ezgif-frame-107_4k.jpg"
+    },
+    {
+      "index": 107,
+      "file": "frame_108.jpg",
+      "source": "ezgif-frame-108_4k.jpg"
+    },
+    {
+      "index": 108,
+      "file": "frame_109.jpg",
+      "source": "ezgif-frame-109_4k.jpg"
+    },
+    {
+      "index": 109,
+      "file": "frame_110.jpg",
+      "source": "ezgif-frame-110_4k.jpg"
+    },
+    {
+      "index": 110,
+      "file": "frame_111.jpg",
+      "source": "ezgif-frame-111_4k.jpg"
+    },
+    {
+      "index": 111,
+      "file": "frame_112.jpg",
+      "source": "ezgif-frame-112_4k.jpg"
+    },
+    {
+      "index": 112,
+      "file": "frame_113.jpg",
+      "source": "ezgif-frame-113_4k.jpg"
+    },
+    {
+      "index": 113,
+      "file": "frame_114.jpg",
+      "source": "ezgif-frame-114_4k.jpg"
+    },
+    {
+      "index": 114,
+      "file": "frame_115.jpg",
+      "source": "ezgif-frame-115_4k.jpg"
+    },
+    {
+      "index": 115,
+      "file": "frame_116.jpg",
+      "source": "ezgif-frame-116_4k.jpg"
+    },
+    {
+      "index": 116,
+      "file": "frame_117.jpg",
+      "source": "ezgif-frame-117_4k.jpg"
+    },
+    {
+      "index": 117,
+      "file": "frame_118.jpg",
+      "source": "ezgif-frame-118_4k.jpg"
+    },
+    {
+      "index": 118,
+      "file": "frame_119.jpg",
+      "source": "ezgif-frame-119_4k.jpg"
+    },
+    {
+      "index": 119,
+      "file": "frame_120.jpg",
+      "source": "ezgif-frame-120_4k.jpg"
+    },
+    {
+      "index": 120,
+      "file": "frame_121.jpg",
+      "source": "ezgif-frame-121_4k.jpg"
+    },
+    {
+      "index": 121,
+      "file": "frame_122.jpg",
+      "source": "ezgif-frame-122_4k.jpg"
+    },
+    {
+      "index": 122,
+      "file": "frame_123.jpg",
+      "source": "ezgif-frame-123_4k.jpg"
+    },
+    {
+      "index": 123,
+      "file": "frame_124.jpg",
+      "source": "ezgif-frame-124_4k.jpg"
+    },
+    {
+      "index": 124,
+      "file": "frame_125.jpg",
+      "source": "ezgif-frame-125_4k.jpg"
+    },
+    {
+      "index": 125,
+      "file": "frame_126.jpg",
+      "source": "ezgif-frame-126_4k.jpg"
+    },
+    {
+      "index": 126,
+      "file": "frame_127.jpg",
+      "source": "ezgif-frame-127_4k.jpg"
+    },
+    {
+      "index": 127,
+      "file": "frame_128.jpg",
+      "source": "ezgif-frame-128_4k.jpg"
+    },
+    {
+      "index": 128,
+      "file": "frame_129.jpg",
+      "source": "ezgif-frame-129_4k.jpg"
+    },
+    {
+      "index": 129,
+      "file": "frame_130.jpg",
+      "source": "ezgif-frame-130_4k.jpg"
+    },
+    {
+      "index": 130,
+      "file": "frame_131.jpg",
+      "source": "ezgif-frame-131_4k.jpg"
+    },
+    {
+      "index": 131,
+      "file": "frame_132.jpg",
+      "source": "ezgif-frame-132_4k.jpg"
+    },
+    {
+      "index": 132,
+      "file": "frame_133.jpg",
+      "source": "ezgif-frame-133_4k.jpg"
+    },
+    {
+      "index": 133,
+      "file": "frame_134.jpg",
+      "source": "ezgif-frame-134_4k.jpg"
+    },
+    {
+      "index": 134,
+      "file": "frame_135.jpg",
+      "source": "ezgif-frame-135_4k.jpg"
+    },
+    {
+      "index": 135,
+      "file": "frame_136.jpg",
+      "source": "ezgif-frame-136_4k.jpg"
+    },
+    {
+      "index": 136,
+      "file": "frame_137.jpg",
+      "source": "ezgif-frame-137_4k.jpg"
+    },
+    {
+      "index": 137,
+      "file": "frame_138.jpg",
+      "source": "ezgif-frame-138_4k.jpg"
+    },
+    {
+      "index": 138,
+      "file": "frame_139.jpg",
+      "source": "ezgif-frame-139_4k.jpg"
+    },
+    {
+      "index": 139,
+      "file": "frame_140.jpg",
+      "source": "ezgif-frame-140_4k.jpg"
+    },
+    {
+      "index": 140,
+      "file": "frame_141.jpg",
+      "source": "ezgif-frame-141_4k.jpg"
+    },
+    {
+      "index": 141,
+      "file": "frame_142.jpg",
+      "source": "ezgif-frame-142_4k.jpg"
+    },
+    {
+      "index": 142,
+      "file": "frame_143.jpg",
+      "source": "ezgif-frame-143_4k.jpg"
+    },
+    {
+      "index": 143,
+      "file": "frame_144.jpg",
+      "source": "ezgif-frame-144_4k.jpg"
+    },
+    {
+      "index": 144,
+      "file": "frame_145.jpg",
+      "source": "ezgif-frame-145_4k.jpg"
+    },
+    {
+      "index": 145,
+      "file": "frame_146.jpg",
+      "source": "ezgif-frame-146_4k.jpg"
+    },
+    {
+      "index": 146,
+      "file": "frame_147.jpg",
+      "source": "ezgif-frame-147_4k.jpg"
+    },
+    {
+      "index": 147,
+      "file": "frame_148.jpg",
+      "source": "ezgif-frame-148_4k.jpg"
+    },
+    {
+      "index": 148,
+      "file": "frame_149.jpg",
+      "source": "ezgif-frame-149_4k.jpg"
+    },
+    {
+      "index": 149,
+      "file": "frame_150.jpg",
+      "source": "ezgif-frame-150_4k.jpg"
+    },
+    {
+      "index": 150,
+      "file": "frame_151.jpg",
+      "source": "ezgif-frame-151_4k.jpg"
+    },
+    {
+      "index": 151,
+      "file": "frame_152.jpg",
+      "source": "ezgif-frame-152_4k.jpg"
+    },
+    {
+      "index": 152,
+      "file": "frame_153.jpg",
+      "source": "ezgif-frame-153_4k.jpg"
+    },
+    {
+      "index": 153,
+      "file": "frame_154.jpg",
+      "source": "ezgif-frame-154_4k.jpg"
+    },
+    {
+      "index": 154,
+      "file": "frame_155.jpg",
+      "source": "ezgif-frame-155_4k.jpg"
+    },
+    {
+      "index": 155,
+      "file": "frame_156.jpg",
+      "source": "ezgif-frame-156_4k.jpg"
+    },
+    {
+      "index": 156,
+      "file": "frame_157.jpg",
+      "source": "ezgif-frame-157_4k.jpg"
+    },
+    {
+      "index": 157,
+      "file": "frame_158.jpg",
+      "source": "ezgif-frame-158_4k.jpg"
+    },
+    {
+      "index": 158,
+      "file": "frame_159.jpg",
+      "source": "ezgif-frame-159_4k.jpg"
+    },
+    {
+      "index": 159,
+      "file": "frame_160.jpg",
+      "source": "ezgif-frame-160_4k.jpg"
+    },
+    {
+      "index": 160,
+      "file": "frame_161.jpg",
+      "source": "ezgif-frame-161_4k.jpg"
+    },
+    {
+      "index": 161,
+      "file": "frame_162.jpg",
+      "source": "ezgif-frame-162_4k.jpg"
+    },
+    {
+      "index": 162,
+      "file": "frame_163.jpg",
+      "source": "ezgif-frame-163_4k.jpg"
+    },
+    {
+      "index": 163,
+      "file": "frame_164.jpg",
+      "source": "ezgif-frame-164_4k.jpg"
+    },
+    {
+      "index": 164,
+      "file": "frame_165.jpg",
+      "source": "ezgif-frame-165_4k.jpg"
+    },
+    {
+      "index": 165,
+      "file": "frame_166.jpg",
+      "source": "ezgif-frame-166_4k.jpg"
+    },
+    {
+      "index": 166,
+      "file": "frame_167.jpg",
+      "source": "ezgif-frame-167_4k.jpg"
+    },
+    {
+      "index": 167,
+      "file": "frame_168.jpg",
+      "source": "ezgif-frame-168_4k.jpg"
+    },
+    {
+      "index": 168,
+      "file": "frame_169.jpg",
+      "source": "ezgif-frame-169_4k.jpg"
+    },
+    {
+      "index": 169,
+      "file": "frame_170.jpg",
+      "source": "ezgif-frame-170_4k.jpg"
+    },
+    {
+      "index": 170,
+      "file": "frame_171.jpg",
+      "source": "ezgif-frame-171_4k.jpg"
+    },
+    {
+      "index": 171,
+      "file": "frame_172.jpg",
+      "source": "ezgif-frame-172_4k.jpg"
+    },
+    {
+      "index": 172,
+      "file": "frame_173.jpg",
+      "source": "ezgif-frame-173_4k.jpg"
+    },
+    {
+      "index": 173,
+      "file": "frame_174.jpg",
+      "source": "ezgif-frame-174_4k.jpg"
+    },
+    {
+      "index": 174,
+      "file": "frame_175.jpg",
+      "source": "ezgif-frame-175_4k.jpg"
+    },
+    {
+      "index": 175,
+      "file": "frame_176.jpg",
+      "source": "ezgif-frame-176_4k.jpg"
+    },
+    {
+      "index": 176,
+      "file": "frame_177.jpg",
+      "source": "ezgif-frame-177_4k.jpg"
+    },
+    {
+      "index": 177,
+      "file": "frame_178.jpg",
+      "source": "ezgif-frame-178_4k.jpg"
+    },
+    {
+      "index": 178,
+      "file": "frame_179.jpg",
+      "source": "ezgif-frame-179_4k.jpg"
+    },
+    {
+      "index": 179,
+      "file": "frame_180.jpg",
+      "source": "ezgif-frame-180_4k.jpg"
+    },
+    {
+      "index": 180,
+      "file": "frame_181.jpg",
+      "source": "ezgif-frame-181_4k.jpg"
+    },
+    {
+      "index": 181,
+      "file": "frame_182.jpg",
+      "source": "ezgif-frame-182_4k.jpg"
+    },
+    {
+      "index": 182,
+      "file": "frame_183.jpg",
+      "source": "ezgif-frame-183_4k.jpg"
+    },
+    {
+      "index": 183,
+      "file": "frame_184.jpg",
+      "source": "ezgif-frame-184_4k.jpg"
+    },
+    {
+      "index": 184,
+      "file": "frame_185.jpg",
+      "source": "ezgif-frame-185_4k.jpg"
+    },
+    {
+      "index": 185,
+      "file": "frame_186.jpg",
+      "source": "ezgif-frame-186_4k.jpg"
+    },
+    {
+      "index": 186,
+      "file": "frame_187.jpg",
+      "source": "ezgif-frame-187_4k.jpg"
+    },
+    {
+      "index": 187,
+      "file": "frame_188.jpg",
+      "source": "ezgif-frame-188_4k.jpg"
+    },
+    {
+      "index": 188,
+      "file": "frame_189.jpg",
+      "source": "ezgif-frame-189_4k.jpg"
+    },
+    {
+      "index": 189,
+      "file": "frame_190.jpg",
+      "source": "ezgif-frame-190_4k.jpg"
+    },
+    {
+      "index": 190,
+      "file": "frame_191.jpg",
+      "source": "ezgif-frame-191_4k.jpg"
+    },
+    {
+      "index": 191,
+      "file": "frame_192.jpg",
+      "source": "ezgif-frame-192_4k.jpg"
+    },
+    {
+      "index": 192,
+      "file": "frame_193.jpg",
+      "source": "ezgif-frame-193_4k.jpg"
+    },
+    {
+      "index": 193,
+      "file": "frame_194.jpg",
+      "source": "ezgif-frame-194_4k.jpg"
+    },
+    {
+      "index": 194,
+      "file": "frame_195.jpg",
+      "source": "ezgif-frame-195_4k.jpg"
+    },
+    {
+      "index": 195,
+      "file": "frame_196.jpg",
+      "source": "ezgif-frame-196_4k.jpg"
+    },
+    {
+      "index": 196,
+      "file": "frame_197.jpg",
+      "source": "ezgif-frame-197_4k.jpg"
+    },
+    {
+      "index": 197,
+      "file": "frame_198.jpg",
+      "source": "ezgif-frame-198_4k.jpg"
+    },
+    {
+      "index": 198,
+      "file": "frame_199.jpg",
+      "source": "ezgif-frame-199_4k.jpg"
+    },
+    {
+      "index": 199,
+      "file": "frame_200.jpg",
+      "source": "ezgif-frame-200_4k.jpg"
+    },
+    {
+      "index": 200,
+      "file": "frame_201.jpg",
+      "source": "ezgif-frame-201_4k.jpg"
+    },
+    {
+      "index": 201,
+      "file": "frame_202.jpg",
+      "source": "ezgif-frame-202_4k.jpg"
+    },
+    {
+      "index": 202,
+      "file": "frame_203.jpg",
+      "source": "ezgif-frame-203_4k.jpg"
+    },
+    {
+      "index": 203,
+      "file": "frame_204.jpg",
+      "source": "ezgif-frame-204_4k.jpg"
+    },
+    {
+      "index": 204,
+      "file": "frame_205.jpg",
+      "source": "ezgif-frame-205_4k.jpg"
+    },
+    {
+      "index": 205,
+      "file": "frame_206.jpg",
+      "source": "ezgif-frame-206_4k.jpg"
+    },
+    {
+      "index": 206,
+      "file": "frame_207.jpg",
+      "source": "ezgif-frame-207_4k.jpg"
+    },
+    {
+      "index": 207,
+      "file": "frame_208.jpg",
+      "source": "ezgif-frame-208_4k.jpg"
+    },
+    {
+      "index": 208,
+      "file": "frame_209.jpg",
+      "source": "ezgif-frame-209_4k.jpg"
+    },
+    {
+      "index": 209,
+      "file": "frame_210.jpg",
+      "source": "ezgif-frame-210_4k.jpg"
+    },
+    {
+      "index": 210,
+      "file": "frame_211.jpg",
+      "source": "ezgif-frame-211_4k.jpg"
+    },
+    {
+      "index": 211,
+      "file": "frame_212.jpg",
+      "source": "ezgif-frame-212_4k.jpg"
+    },
+    {
+      "index": 212,
+      "file": "frame_213.jpg",
+      "source": "ezgif-frame-213_4k.jpg"
+    },
+    {
+      "index": 213,
+      "file": "frame_214.jpg",
+      "source": "ezgif-frame-214_4k.jpg"
+    },
+    {
+      "index": 214,
+      "file": "frame_215.jpg",
+      "source": "ezgif-frame-215_4k.jpg"
+    },
+    {
+      "index": 215,
+      "file": "frame_216.jpg",
+      "source": "ezgif-frame-216_4k.jpg"
+    },
+    {
+      "index": 216,
+      "file": "frame_217.jpg",
+      "source": "ezgif-frame-217_4k.jpg"
+    },
+    {
+      "index": 217,
+      "file": "frame_218.jpg",
+      "source": "ezgif-frame-218_4k.jpg"
+    }
+  ],
+  "identicalFrameGroups": [
+    [
+      "ezgif-frame-012_4k.jpg",
+      "ezgif-frame-013_4k.jpg"
+    ],
+    [
+      "ezgif-frame-017_4k.jpg",
+      "ezgif-frame-018_4k.jpg"
+    ],
+    [
+      "ezgif-frame-022_4k.jpg",
+      "ezgif-frame-023_4k.jpg"
+    ],
+    [
+      "ezgif-frame-027_4k.jpg",
+      "ezgif-frame-028_4k.jpg"
+    ],
+    [
+      "ezgif-frame-032_4k.jpg",
+      "ezgif-frame-033_4k.jpg"
+    ],
+    [
+      "ezgif-frame-037_4k.jpg",
+      "ezgif-frame-038_4k.jpg"
+    ],
+    [
+      "ezgif-frame-042_4k.jpg",
+      "ezgif-frame-043_4k.jpg"
+    ],
+    [
+      "ezgif-frame-047_4k.jpg",
+      "ezgif-frame-048_4k.jpg"
+    ],
+    [
+      "ezgif-frame-052_4k.jpg",
+      "ezgif-frame-053_4k.jpg"
+    ],
+    [
+      "ezgif-frame-057_4k.jpg",
+      "ezgif-frame-058_4k.jpg"
+    ],
+    [
+      "ezgif-frame-062_4k.jpg",
+      "ezgif-frame-063_4k.jpg"
+    ],
+    [
+      "ezgif-frame-067_4k.jpg",
+      "ezgif-frame-068_4k.jpg"
+    ],
+    [
+      "ezgif-frame-072_4k.jpg",
+      "ezgif-frame-073_4k.jpg"
+    ],
+    [
+      "ezgif-frame-077_4k.jpg",
+      "ezgif-frame-078_4k.jpg"
+    ],
+    [
+      "ezgif-frame-082_4k.jpg",
+      "ezgif-frame-083_4k.jpg"
+    ],
+    [
+      "ezgif-frame-087_4k.jpg",
+      "ezgif-frame-088_4k.jpg"
+    ],
+    [
+      "ezgif-frame-092_4k.jpg",
+      "ezgif-frame-093_4k.jpg"
+    ],
+    [
+      "ezgif-frame-097_4k.jpg",
+      "ezgif-frame-098_4k.jpg"
+    ],
+    [
+      "ezgif-frame-102_4k.jpg",
+      "ezgif-frame-103_4k.jpg"
+    ],
+    [
+      "ezgif-frame-107_4k.jpg",
+      "ezgif-frame-108_4k.jpg"
+    ],
+    [
+      "ezgif-frame-112_4k.jpg",
+      "ezgif-frame-113_4k.jpg"
+    ],
+    [
+      "ezgif-frame-117_4k.jpg",
+      "ezgif-frame-118_4k.jpg"
+    ],
+    [
+      "ezgif-frame-122_4k.jpg",
+      "ezgif-frame-123_4k.jpg"
+    ],
+    [
+      "ezgif-frame-127_4k.jpg",
+      "ezgif-frame-128_4k.jpg"
+    ],
+    [
+      "ezgif-frame-132_4k.jpg",
+      "ezgif-frame-133_4k.jpg"
+    ],
+    [
+      "ezgif-frame-137_4k.jpg",
+      "ezgif-frame-138_4k.jpg"
+    ],
+    [
+      "ezgif-frame-142_4k.jpg",
+      "ezgif-frame-143_4k.jpg"
+    ],
+    [
+      "ezgif-frame-147_4k.jpg",
+      "ezgif-frame-148_4k.jpg"
+    ],
+    [
+      "ezgif-frame-152_4k.jpg",
+      "ezgif-frame-153_4k.jpg"
+    ],
+    [
+      "ezgif-frame-157_4k.jpg",
+      "ezgif-frame-158_4k.jpg"
+    ],
+    [
+      "ezgif-frame-162_4k.jpg",
+      "ezgif-frame-163_4k.jpg"
+    ],
+    [
+      "ezgif-frame-167_4k.jpg",
+      "ezgif-frame-168_4k.jpg"
+    ],
+    [
+      "ezgif-frame-172_4k.jpg",
+      "ezgif-frame-173_4k.jpg"
+    ],
+    [
+      "ezgif-frame-177_4k.jpg",
+      "ezgif-frame-178_4k.jpg"
+    ],
+    [
+      "ezgif-frame-182_4k.jpg",
+      "ezgif-frame-183_4k.jpg"
+    ],
+    [
+      "ezgif-frame-187_4k.jpg",
+      "ezgif-frame-188_4k.jpg"
+    ],
+    [
+      "ezgif-frame-192_4k.jpg",
+      "ezgif-frame-193_4k.jpg"
+    ],
+    [
+      "ezgif-frame-197_4k.jpg",
+      "ezgif-frame-198_4k.jpg"
+    ],
+    [
+      "ezgif-frame-202_4k.jpg",
+      "ezgif-frame-203_4k.jpg"
+    ],
+    [
+      "ezgif-frame-207_4k.jpg",
+      "ezgif-frame-208_4k.jpg"
+    ],
+    [
+      "ezgif-frame-212_4k.jpg",
+      "ezgif-frame-213_4k.jpg"
+    ],
+    [
+      "ezgif-frame-217_4k.jpg",
+      "ezgif-frame-218_4k.jpg"
+    ]
+  ]
+}

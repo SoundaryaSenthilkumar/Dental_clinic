@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400">
+  <defs>
+    <radialGradient id="bg1" cx="50%" cy="40%" r="60%">
+      <stop offset="0%" stop-color="#EAF6FF"/>
+      <stop offset="100%" stop-color="#C8E8FA"/>
+    </radialGradient>
+    <radialGradient id="skin1" cx="50%" cy="40%" r="55%">
+      <stop offset="0%" stop-color="#FDDBB4"/>
+      <stop offset="100%" stop-color="#F0B97A"/>
+    </radialGradient>
+    <radialGradient id="hair1" cx="50%" cy="30%" r="60%">
+      <stop offset="0%" stop-color="#5C3A1E"/>
+      <stop offset="100%" stop-color="#3B2010"/>
+    </radialGradient>
+    <clipPath id="circle1">
+      <circle cx="200" cy="200" r="200"/>
+    </clipPath>
+  </defs>
+
+  <!-- Background -->
+  <circle cx="200" cy="200" r="200" fill="url(#bg1)"/>
+
+  <!-- White coat body -->
+  <ellipse cx="200" cy="370" rx="130" ry="80" fill="#FFFFFF"/>
+  <rect x="70" y="290" width="260" height="120" rx="20" fill="#FFFFFF"/>
+  <!-- Coat lapels -->
+  <path d="M200 290 L155 340 L140 400 L200 380 L260 400 L245 340 Z" fill="#F0F8FF" stroke="#D0E8F5" stroke-width="1"/>
+  <!-- Coat collar -->
+  <path d="M200 290 L175 310 L165 340 L200 330 L235 340 L225 310 Z" fill="#E8F4FC"/>
+
+  <!-- Stethoscope -->
+  <path d="M165 310 Q150 340 155 360 Q160 375 175 375 Q190 375 190 360" fill="none" stroke="#1677C8" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="190" cy="360" r="8" fill="#1677C8"/>
+  <circle cx="190" cy="360" r="4" fill="#72C7F0"/>
+
+  <!-- Neck -->
+  <ellipse cx="200" cy="285" rx="28" ry="22" fill="url(#skin1)"/>
+
+  <!-- Head -->
+  <ellipse cx="200" cy="195" rx="72" ry="82" fill="url(#skin1)"/>
+
+  <!-- Hair — long, pulled back -->
+  <ellipse cx="200" cy="148" rx="72" ry="52" fill="url(#hair1)"/>
+  <path d="M128 175 Q118 220 125 270 Q132 290 145 295 Q135 260 138 220 Q140 195 128 175Z" fill="url(#hair1)"/>
+  <path d="M272 175 Q282 220 275 270 Q268 290 255 295 Q265 260 262 220 Q260 195 272 175Z" fill="url(#hair1)"/>
+  <!-- Hair bun hint -->
+  <ellipse cx="200" cy="130" rx="40" ry="28" fill="#3B2010"/>
+
+  <!-- Ears -->
+  <ellipse cx="128" cy="200" rx="12" ry="16" fill="#F0B97A"/>
+  <ellipse cx="272" cy="200" rx="12" ry="16" fill="#F0B97A"/>
+
+  <!-- Eyes -->
+  <ellipse cx="175" cy="195" rx="13" ry="10" fill="#fff"/>
+  <ellipse cx="225" cy="195" rx="13" ry="10" fill="#fff"/>
+  <circle cx="177" cy="196" r="7" fill="#3B2010"/>
+  <circle cx="227" cy="196" r="7" fill="#3B2010"/>
+  <circle cx="179" cy="193" r="2.5" fill="#fff"/>
+  <circle cx="229" cy="193" r="2.5" fill="#fff"/>
+  <!-- Eyelashes -->
+  <path d="M162 190 Q168 185 175 188" fill="none" stroke="#3B2010" stroke-width="2" stroke-linecap="round"/>
+  <path d="M225 188 Q232 185 238 190" fill="none" stroke="#3B2010" stroke-width="2" stroke-linecap="round"/>
+
+  <!-- Eyebrows -->
+  <path d="M163 183 Q175 177 187 181" fill="none" stroke="#5C3A1E" stroke-width="3" stroke-linecap="round"/>
+  <path d="M213 181 Q225 177 237 183" fill="none" stroke="#5C3A1E" stroke-width="3" stroke-linecap="round"/>
+
+  <!-- Nose -->
+  <path d="M196 205 Q192 220 196 228 Q200 232 204 228 Q208 220 204 205" fill="none" stroke="#D4956A" stroke-width="2" stroke-linecap="round"/>
+
+  <!-- Smile -->
+  <path d="M183 245 Q200 258 217 245" fill="none" stroke="#C07850" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M185 246 Q200 254 215 246" fill="#E8A080" opacity="0.4"/>
+
+  <!-- Cheek blush -->
+  <ellipse cx="160" cy="228" rx="16" ry="10" fill="#F4A0A0" opacity="0.3"/>
+  <ellipse cx="240" cy="228" rx="16" ry="10" fill="#F4A0A0" opacity="0.3"/>
+
+  <!-- Name badge -->
+  <rect x="155" y="340" width="90" height="28" rx="6" fill="#1677C8"/>
+  <text x="200" y="358" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#fff">Dr. Mitchell</text>
+</svg>

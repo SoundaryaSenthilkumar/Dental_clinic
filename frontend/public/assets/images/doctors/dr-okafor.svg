@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400">
+  <defs>
+    <radialGradient id="bg2" cx="50%" cy="40%" r="60%">
+      <stop offset="0%" stop-color="#EAF6FF"/>
+      <stop offset="100%" stop-color="#C8E8FA"/>
+    </radialGradient>
+    <radialGradient id="skin2" cx="50%" cy="40%" r="55%">
+      <stop offset="0%" stop-color="#8D5524"/>
+      <stop offset="100%" stop-color="#6B3E1A"/>
+    </radialGradient>
+    <radialGradient id="hair2" cx="50%" cy="30%" r="60%">
+      <stop offset="0%" stop-color="#1A1A1A"/>
+      <stop offset="100%" stop-color="#0A0A0A"/>
+    </radialGradient>
+  </defs>
+
+  <!-- Background -->
+  <circle cx="200" cy="200" r="200" fill="url(#bg2)"/>
+
+  <!-- White coat body -->
+  <rect x="70" y="290" width="260" height="120" rx="20" fill="#FFFFFF"/>
+  <path d="M200 290 L155 340 L140 400 L200 380 L260 400 L245 340 Z" fill="#F0F8FF" stroke="#D0E8F5" stroke-width="1"/>
+  <path d="M200 290 L175 310 L165 340 L200 330 L235 340 L225 310 Z" fill="#E8F4FC"/>
+
+  <!-- Stethoscope -->
+  <path d="M165 310 Q150 340 155 360 Q160 375 175 375 Q190 375 190 360" fill="none" stroke="#1677C8" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="190" cy="360" r="8" fill="#1677C8"/>
+  <circle cx="190" cy="360" r="4" fill="#72C7F0"/>
+
+  <!-- Neck -->
+  <ellipse cx="200" cy="285" rx="30" ry="22" fill="url(#skin2)"/>
+
+  <!-- Head — slightly wider/squarer for male -->
+  <ellipse cx="200" cy="192" rx="76" ry="80" fill="url(#skin2)"/>
+
+  <!-- Hair — short, close-cropped -->
+  <ellipse cx="200" cy="145" rx="76" ry="46" fill="url(#hair2)"/>
+  <rect x="124" y="145" width="152" height="30" fill="url(#hair2)"/>
+  <!-- Hairline fade -->
+  <path d="M124 165 Q130 155 145 150 Q170 143 200 142 Q230 143 255 150 Q270 155 276 165" fill="url(#hair2)"/>
+
+  <!-- Ears -->
+  <ellipse cx="124" cy="198" rx="13" ry="17" fill="#7A4820"/>
+  <ellipse cx="276" cy="198" rx="13" ry="17" fill="#7A4820"/>
+
+  <!-- Eyes -->
+  <ellipse cx="174" cy="193" rx="14" ry="11" fill="#fff"/>
+  <ellipse cx="226" cy="193" rx="14" ry="11" fill="#fff"/>
+  <circle cx="176" cy="194" r="8" fill="#1A0A00"/>
+  <circle cx="228" cy="194" r="8" fill="#1A0A00"/>
+  <circle cx="178" cy="191" r="2.5" fill="#fff"/>
+  <circle cx="230" cy="191" r="2.5" fill="#fff"/>
+
+  <!-- Eyebrows — thicker, straighter -->
+  <path d="M160 181 Q174 175 188 179" fill="none" stroke="#1A1A1A" stroke-width="4" stroke-linecap="round"/>
+  <path d="M212 179 Q226 175 240 181" fill="none" stroke="#1A1A1A" stroke-width="4" stroke-linecap="round"/>
+
+  <!-- Nose — broader -->
+  <path d="M194 205 Q188 222 192 230 Q200 236 208 230 Q212 222 206 205" fill="none" stroke="#5C3010" stroke-width="2.5" stroke-linecap="round"/>
+  <ellipse cx="193" cy="229" rx="7" ry="5" fill="#5C3010" opacity="0.3"/>
+  <ellipse cx="207" cy="229" rx="7" ry="5" fill="#5C3010" opacity="0.3"/>
+
+  <!-- Smile / neutral expression -->
+  <path d="M182 248 Q200 260 218 248" fill="none" stroke="#5C3010" stroke-width="2.5" stroke-linecap="round"/>
+
+  <!-- Subtle beard shadow -->
+  <ellipse cx="200" cy="255" rx="55" ry="22" fill="#5C3010" opacity="0.12"/>
+
+  <!-- Name badge -->
+  <rect x="155" y="340" width="90" height="28" rx="6" fill="#1677C8"/>
+  <text x="200" y="358" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#fff">Dr. Okafor</text>
+</svg>
